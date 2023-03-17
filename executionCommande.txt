@@ -1,0 +1,11 @@
+~!! A refaire avec un makefile
+
+
+#compilation
+
+    g++ -std=c++20 -o main .\main.cpp .\Liste1.cpp .\Voiture.cpp
+
+#exection
+
+    ./main
+
